@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string></string>
+	</array>
+	<key>Gilroy-Medium.ttf</key>
+	<string>Gilroy-Medium.ttf</string>
+	<key>Gilroy-Regular.ttf</key>
+	<string>Gilroy-Regular.ttf</string>
+	<key>Gilroy-Heavy.ttf</key>
+	<string>Gilroy-Heavy.ttf</string>
+	<key>Gilroy-Bold.ttf</key>
+	<string>Gilroy-Bold.ttf</string>
+	<key>Inter.ttf</key>
+	<string>Inter.ttf</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
